@@ -4,7 +4,7 @@ class HotelBookingSystem {
 	public int BookRoom(int roomQuality) {
 		switch (roomQuality) {
 		case 3:
-			return 250;
+			return 260;
 		case 4:
 			return 500;
 		case 5:
